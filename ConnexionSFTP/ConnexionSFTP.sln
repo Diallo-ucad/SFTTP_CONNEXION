@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnexionSFTP", "ConnexionSFTP\ConnexionSFTP.csproj", "{305F7E01-71DB-48BF-8E07-56ACD09ED53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305F7E01-71DB-48BF-8E07-56ACD09ED53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305F7E01-71DB-48BF-8E07-56ACD09ED53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305F7E01-71DB-48BF-8E07-56ACD09ED53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305F7E01-71DB-48BF-8E07-56ACD09ED53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6838A1-06B9-4297-864B-B7E94E4DA619}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.InstallLog
+   assemblypath = C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe.
+Validation de l'assembly 'C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.InstallLog
+   assemblypath = C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe.
+Suppression du fichier InstallState, car aucun programme d'installation n'est présent.

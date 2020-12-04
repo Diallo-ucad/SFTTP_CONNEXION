@@ -1,0 +1,9 @@
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe.config
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.exe
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\ConnexionSFTP.pdb
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\obj\Debug\ConnexionSFTP.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\obj\Debug\ConnexionSFTP.csproj.CopyComplete
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\obj\Debug\ConnexionSFTP.exe
+C:\Users\Administrateur.CES.000\Documents\Dev-CES-INCENDIE\C#\trainning\ConnexionSFTP\ConnexionSFTP\obj\Debug\ConnexionSFTP.pdb
